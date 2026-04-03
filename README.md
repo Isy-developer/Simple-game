@@ -3,9 +3,7 @@
 This is a tiny browser game using `Canvas` where you **avoid falling obstacles**.
 
 ## How to run
-
-1. Double-click `index.html` (your browser should open it).
-2. Press `Space` to start.
+Press `Space` to start.
 
 ## Controls
 
@@ -15,7 +13,5 @@ This is a tiny browser game using `Canvas` where you **avoid falling obstacles**
 - Pause / Resume: `P` (or `Esc`)
 
 ## Notes
-
-- If you run into a browser security issue when opening from disk, try using your browser’s “Open File” option, or host it with a local server.
 - Power-ups may appear: `Shield` (blocks one collision) and `Slow` (slows the action).
 
